@@ -1,0 +1,713 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.28)  4 SEP 2019 14:51
+entering extended mode
+**./20190904.tex
+(20190904.tex
+LaTeX2e <2018-04-01> patch level 5
+("D:\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("D:\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("D:\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("D:\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("D:\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("D:\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("D:\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("D:\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("D:\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("D:\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("D:\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen111
+))
+("D:\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen112
+)
+("D:\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks17
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks18
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("D:\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks26
+)
+("D:\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("D:\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("D:\MiKTeX 2.9\tex\latex\cjk\CJK.sty"
+Package: CJK 2015/04/18 4.8.4
+
+("D:\MiKTeX 2.9\tex\latex\cjk\mule\MULEenc.sty"
+Package: MULEenc 2015/04/18 4.8.4
+)
+("D:\MiKTeX 2.9\tex\latex\cjk\CJK.enc"
+File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box28
+)
+("D:\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks27
+\verbatim@line=\toks28
+\verbatim@in@stream=\read1
+)
+("D:\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("D:\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("D:\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+) (20190904.aux)
+\openout1 = `20190904.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("D:\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen122
+\scratchbox=\box29
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen123
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks30
+) ("D:\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("D:\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("D:\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("D:\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("D:\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("D:\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("D:\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("D:\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("D:\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("D:\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+("D:\MiKTeX 2.9\tex\latex\cjk\UTF8\UTF8.bdg"
+File: UTF8.bdg 2015/04/18 4.8.4
+)
+("D:\MiKTeX 2.9\tex\latex\cjk\UTF8\UTF8.enc"
+File: UTF8.enc 2015/04/18 4.8.4
+)
+("D:\MiKTeX 2.9\tex\latex\cjk\UTF8\UTF8.chr"
+File: UTF8.chr 2015/04/18 4.8.4
+)
+LaTeX Font Info:    Try loading font information for C70+bsmi on input line 11.
+
+
+("D:\MiKTeX 2.9\tex\latex\cjk\UTF8\c70bsmi.fd"
+File: c70bsmi.fd 2015/04/18 4.8.4
+)
+("D:\MiKTeX 2.9\tex\latex\cjk\UTF8\c70bsmi.fdx"
+File: c70bsmi.fdx 2015/04/18 4.8.4
+)
+Package epstopdf Info: Source file: <AP1.eps>
+(epstopdf)                    date: 2019-09-04 14:43:37
+(epstopdf)                    size: 38181 bytes
+(epstopdf)             Output file: <AP1-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-09-04 14:48:02
+(epstopdf)                    size: 10017 bytes
+(epstopdf)             Command: <epstopdf --outfile=AP1-eps-converted-to.pdf AP
+1.eps>
+(epstopdf)             \includegraphics on input line 14.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./AP1-eps-converted-to.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+<AP1-eps-converted-to.pdf, id=1, 1156.32pt x 564.1075pt>
+File: AP1-eps-converted-to.pdf Graphic file (type pdf)
+<use AP1-eps-converted-to.pdf>
+Package pdftex.def Info: AP1-eps-converted-to.pdf  used on input line 14.
+(pdftex.def)             Requested size: 500.0pt x 243.92148pt.
+
+Overfull \hbox (16.30313pt too wide) in paragraph at lines 14--15
+ [][] 
+ []
+
+[1
+
+{C:/Users/boyunchen.000/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./A
+P1-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <main1.eps>
+(epstopdf)                    date: 2019-09-04 14:42:43
+(epstopdf)                    size: 20712 bytes
+(epstopdf)             Output file: <main1-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-09-04 14:48:48
+(epstopdf)                    size: 4955 bytes
+(epstopdf)             Command: <epstopdf --outfile=main1-eps-converted-to.pdf 
+main1.eps>
+(epstopdf)             \includegraphics on input line 20.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./main1-eps-converted-to.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<main1-eps-converted-to.pdf, id=13, 1156.32pt x 564.1075pt>
+File: main1-eps-converted-to.pdf Graphic file (type pdf)
+<use main1-eps-converted-to.pdf>
+Package pdftex.def Info: main1-eps-converted-to.pdf  used on input line 20.
+(pdftex.def)             Requested size: 500.0pt x 243.92148pt.
+
+Overfull \hbox (16.30313pt too wide) in paragraph at lines 20--21
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <leak1.eps>
+(epstopdf)                    date: 2019-09-04 14:43:26
+(epstopdf)                    size: 22192 bytes
+(epstopdf)             Output file: <leak1-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-09-04 14:48:49
+(epstopdf)                    size: 5210 bytes
+(epstopdf)             Command: <epstopdf --outfile=leak1-eps-converted-to.pdf 
+leak1.eps>
+(epstopdf)             \includegraphics on input line 24.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./leak1-eps-converted-to.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<leak1-eps-converted-to.pdf, id=14, 1156.32pt x 564.1075pt>
+File: leak1-eps-converted-to.pdf Graphic file (type pdf)
+<use leak1-eps-converted-to.pdf>
+Package pdftex.def Info: leak1-eps-converted-to.pdf  used on input line 24.
+(pdftex.def)             Requested size: 500.0pt x 243.92148pt.
+
+Overfull \hbox (16.30313pt too wide) in paragraph at lines 24--25
+ [][] 
+ []
+
+[2 <./main1-eps-converted-to.pdf> <./leak1-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <mnh1.eps>
+(epstopdf)                    date: 2019-09-04 14:43:14
+(epstopdf)                    size: 21988 bytes
+(epstopdf)             Output file: <mnh1-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-09-04 14:48:50
+(epstopdf)                    size: 5198 bytes
+(epstopdf)             Command: <epstopdf --outfile=mnh1-eps-converted-to.pdf m
+nh1.eps>
+(epstopdf)             \includegraphics on input line 30.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./mnh1-eps-converted-to.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<mnh1-eps-converted-to.pdf, id=30, 1156.32pt x 564.1075pt>
+File: mnh1-eps-converted-to.pdf Graphic file (type pdf)
+<use mnh1-eps-converted-to.pdf>
+Package pdftex.def Info: mnh1-eps-converted-to.pdf  used on input line 30.
+(pdftex.def)             Requested size: 500.0pt x 243.92148pt.
+
+Overfull \hbox (16.30313pt too wide) in paragraph at lines 30--31
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <gate1.eps>
+(epstopdf)                    date: 2019-09-04 14:43:02
+(epstopdf)                    size: 21775 bytes
+(epstopdf)             Output file: <gate1-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-09-04 14:48:50
+(epstopdf)                    size: 4614 bytes
+(epstopdf)             Command: <epstopdf --outfile=gate1-eps-converted-to.pdf 
+gate1.eps>
+(epstopdf)             \includegraphics on input line 34.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./gate1-eps-converted-to.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<gate1-eps-converted-to.pdf, id=31, 1156.32pt x 564.1075pt>
+File: gate1-eps-converted-to.pdf Graphic file (type pdf)
+<use gate1-eps-converted-to.pdf>
+Package pdftex.def Info: gate1-eps-converted-to.pdf  used on input line 34.
+(pdftex.def)             Requested size: 500.0pt x 243.92148pt.
+
+Overfull \hbox (16.30313pt too wide) in paragraph at lines 34--35
+ [][] 
+ []
+
+[3 <./mnh1-eps-converted-to.pdf> <./gate1-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <AP2.eps>
+(epstopdf)                    date: 2019-09-04 14:44:54
+(epstopdf)                    size: 33124 bytes
+(epstopdf)             Output file: <AP2-eps-converted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=AP2-eps-converted-to.pdf AP
+2.eps>
+(epstopdf)             \includegraphics on input line 40.
+runsystem(epstopdf --outfile=AP2-eps-converted-to.pdf AP2.eps)...executed (allo
+wed).
+
+Package epstopdf Info: Result file: <AP2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-09-04 14:51:45
+(epstopdf)                    size: 8517 bytes.
+
+
+pdfTeX warning: pdflatex.exe (file ./AP2-eps-converted-to.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+<AP2-eps-converted-to.pdf, id=42, 1156.32pt x 564.1075pt>
+File: AP2-eps-converted-to.pdf Graphic file (type pdf)
+<use AP2-eps-converted-to.pdf>
+Package pdftex.def Info: AP2-eps-converted-to.pdf  used on input line 40.
+(pdftex.def)             Requested size: 500.0pt x 243.92148pt.
+
+Overfull \hbox (16.30313pt too wide) in paragraph at lines 40--41
+ [][] 
+ []
+
+[4 <./AP2-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <main2.eps>
+(epstopdf)                    date: 2019-09-04 14:45:12
+(epstopdf)                    size: 19981 bytes
+(epstopdf)             Output file: <main2-eps-converted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=main2-eps-converted-to.pdf 
+main2.eps>
+(epstopdf)             \includegraphics on input line 46.
+runsystem(epstopdf --outfile=main2-eps-converted-to.pdf main2.eps)...executed (
+allowed).
+
+Package epstopdf Info: Result file: <main2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-09-04 14:51:46
+(epstopdf)                    size: 4718 bytes.
+
+
+pdfTeX warning: pdflatex.exe (file ./main2-eps-converted-to.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<main2-eps-converted-to.pdf, id=52, 1156.32pt x 564.1075pt>
+File: main2-eps-converted-to.pdf Graphic file (type pdf)
+<use main2-eps-converted-to.pdf>
+Package pdftex.def Info: main2-eps-converted-to.pdf  used on input line 46.
+(pdftex.def)             Requested size: 500.0pt x 243.92148pt.
+
+Overfull \hbox (16.30313pt too wide) in paragraph at lines 46--47
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <leak2.eps>
+(epstopdf)                    date: 2019-09-04 14:45:03
+(epstopdf)                    size: 21437 bytes
+(epstopdf)             Output file: <leak2-eps-converted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=leak2-eps-converted-to.pdf 
+leak2.eps>
+(epstopdf)             \includegraphics on input line 50.
+runsystem(epstopdf --outfile=leak2-eps-converted-to.pdf leak2.eps)...executed (
+allowed).
+
+Package epstopdf Info: Result file: <leak2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-09-04 14:51:46
+(epstopdf)                    size: 4904 bytes.
+
+
+pdfTeX warning: pdflatex.exe (file ./leak2-eps-converted-to.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<leak2-eps-converted-to.pdf, id=53, 1156.32pt x 564.1075pt>
+File: leak2-eps-converted-to.pdf Graphic file (type pdf)
+<use leak2-eps-converted-to.pdf>
+Package pdftex.def Info: leak2-eps-converted-to.pdf  used on input line 50.
+(pdftex.def)             Requested size: 500.0pt x 243.92148pt.
+
+Overfull \hbox (16.30313pt too wide) in paragraph at lines 50--51
+ [][] 
+ []
+
+[5 <./main2-eps-converted-to.pdf> <./leak2-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <mnh2.eps>
+(epstopdf)                    date: 2019-09-04 14:44:38
+(epstopdf)                    size: 20851 bytes
+(epstopdf)             Output file: <mnh2-eps-converted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=mnh2-eps-converted-to.pdf m
+nh2.eps>
+(epstopdf)             \includegraphics on input line 56.
+runsystem(epstopdf --outfile=mnh2-eps-converted-to.pdf mnh2.eps)...executed (al
+lowed).
+
+Package epstopdf Info: Result file: <mnh2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-09-04 14:51:47
+(epstopdf)                    size: 4759 bytes.
+
+
+pdfTeX warning: pdflatex.exe (file ./mnh2-eps-converted-to.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<mnh2-eps-converted-to.pdf, id=65, 1156.32pt x 564.1075pt>
+File: mnh2-eps-converted-to.pdf Graphic file (type pdf)
+<use mnh2-eps-converted-to.pdf>
+Package pdftex.def Info: mnh2-eps-converted-to.pdf  used on input line 56.
+(pdftex.def)             Requested size: 500.0pt x 243.92148pt.
+
+Overfull \hbox (16.30313pt too wide) in paragraph at lines 56--57
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <gate2.eps>
+(epstopdf)                    date: 2019-09-04 14:44:27
+(epstopdf)                    size: 21043 bytes
+(epstopdf)             Output file: <gate2-eps-converted-to.pdf>
+(epstopdf)             Command: <epstopdf --outfile=gate2-eps-converted-to.pdf 
+gate2.eps>
+(epstopdf)             \includegraphics on input line 60.
+runsystem(epstopdf --outfile=gate2-eps-converted-to.pdf gate2.eps)...executed (
+allowed).
+
+Package epstopdf Info: Result file: <gate2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-09-04 14:51:47
+(epstopdf)                    size: 4344 bytes.
+
+
+pdfTeX warning: pdflatex.exe (file ./gate2-eps-converted-to.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<gate2-eps-converted-to.pdf, id=66, 1156.32pt x 564.1075pt>
+File: gate2-eps-converted-to.pdf Graphic file (type pdf)
+<use gate2-eps-converted-to.pdf>
+Package pdftex.def Info: gate2-eps-converted-to.pdf  used on input line 60.
+(pdftex.def)             Requested size: 500.0pt x 243.92148pt.
+
+Overfull \hbox (16.30313pt too wide) in paragraph at lines 60--61
+ [][] 
+ []
+
+[6 <./mnh2-eps-converted-to.pdf> <./gate2-eps-converted-to.pdf>] (20190904.aux)
+ ) 
+Here is how much of TeX's memory you used:
+ 4130 strings out of 492970
+ 53371 string characters out of 3142004
+ 121047 words of memory out of 3000000
+ 7903 multiletter control sequences out of 15000+200000
+ 6478 words of font info for 24 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,32p,277b,455s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu4e.pfb><D:/MiKTeX 2.9/fonts/type
+1/arphic/bsmiu/bsmiu53.pfb><D:/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu58.pfb>
+<D:/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu6b.pfb><D:/MiKTeX 2.9/fonts/type1/
+arphic/bsmiu/bsmiu6d.pfb><D:/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu85.pfb><D
+:/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu8b.pfb><D:/MiKTeX 2.9/fonts/type1/ar
+phic/bsmiu/bsmiu8f.pfb><D:/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu96.pfb><D:/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on 20190904.pdf (6 pages, 80189 bytes).
+PDF statistics:
+ 107 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
